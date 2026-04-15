@@ -5,7 +5,7 @@ subtitle: Tunlada Wiriyanukhroh, M.D.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile-tunlada.jpg
   image_circular: false # เปลี่ยนเป็น true หากต้องการรูปวงกลม
   address: >
     <p>Diagnostic Radiology</p>
